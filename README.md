@@ -4,7 +4,9 @@ Certificates earned by **Abhishek Tripathi**, in data analysis and SQL.
 
 | Certification | Issuer | Date | Certificate |
 |---|---|---|---|
-| Data Analysis with Python | IBM (Cognitive Class) | Sep 2025 | [View PDF](IBM-Data-Analysis-with-Python.pdf) |
+| Data Analysis with Python | IBM (Cognitive Class) | Sep 2025 |[Verify online]
+https://courses.cognitiveclass.ai/certificates/a93bfee152ac4c9b8ad8746680ebe83b
+|
 | SQL and Relational Databases 101 | IBM SkillsBuild | Apr 2025 | [Verify online](https://courses.skillsbuild.skillsnetwork.site/certificates/3dc7a24ae0b2415ab291a0ed06915825) |
 
 ## Verification
